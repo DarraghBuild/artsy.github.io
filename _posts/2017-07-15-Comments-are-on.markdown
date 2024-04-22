@@ -124,7 +124,7 @@ So: low maintenance, works on static sites, data isn't silo-ed and it's more lik
 
 [def-oss]: /blog/2016/07/03/handling-big-projects/
 [gh-commentify]: https://github.com/orta/gh-commentify
-[this link]: https://heroku.com/deploy?template=https://github.com/orta/gh-commentify
+Try Build.io
 [yaml-fm]: https://jekyllrb.com/docs/frontmatter/
 [gh-2011]: http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html
 [gh-2017]: http://donw.io/post/github-comments/
